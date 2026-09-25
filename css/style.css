@@ -1,0 +1,102 @@
+.page-content {
+    background-color: white;
+}
+
+.block-title {
+    color: #333333;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.productos {
+    margin-top: 0;
+    padding: 0 15px;
+}
+
+.productos .grid {
+    gap: 10px;
+}
+
+.comida-card {
+    margin: 0;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    box-shadow: none;
+    background-color: white;
+}
+
+.comida-card .card-content {
+    padding: 8px;
+    text-align: center;
+}
+
+.comida-card img {
+    width: 100%;
+    height: 125px;
+    object-fit: contain;
+}
+
+.comida-card h3 {
+    font-size: 12px;
+    margin: 5px 0;
+    color: #222222;
+}
+
+.comida-card p {
+    font-size: 10px;
+    color: #999999;
+    margin: 5px 0 15px;
+}
+
+.precio {
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.precio a {
+    float: right;
+    color: black;
+}
+
+.precio i {
+    font-size: 16px;
+}
+
+.pizza-banner {
+    position: relative;
+    margin-top: 20px;
+}
+
+.pizza-banner img {
+    width: 100%;
+    display: block;
+}
+
+.categorias-card .card-content {
+   padding: 8px;
+    text-align: center;
+}
+
+.categorias-card img {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    height: 35px;
+    width: 100%;
+}
+
+
+.categorias .categorias-info {
+    flex: 1;
+    text-align: center;
+}
+
+.categorias .categorias-info h3 {
+    font-size: 12px;
+    margin: 5px 0;
+    color: #222222;
+}
+
+
